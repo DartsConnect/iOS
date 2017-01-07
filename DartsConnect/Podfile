@@ -1,0 +1,25 @@
+# Uncomment this line to define a global platform for your project
+platform :ios, '9.0'
+# Uncomment this line if you're using Swift
+use_frameworks!
+
+target 'DartsConnect' do
+  #pod 'Firebase', '>= 2.5.1'
+  #pod 'Firebase/Database'
+  pod 'Eureka'
+  pod 'GraphKit'
+  pod 'BEMSimpleLineGraph'
+  pod 'SVProgressHUD'
+  pod 'EZSwiftExtensions'
+  pod 'Firebase-Cocoa-SDK'
+  pod 'IQKeyboardManager'
+  pod 'SWRevealViewController'
+end
+
+target 'DartsConnectTests' do
+
+end
+
+target 'DartsConnectUITests' do
+
+end

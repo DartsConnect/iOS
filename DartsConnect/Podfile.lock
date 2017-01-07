@@ -1,0 +1,39 @@
+PODS:
+  - BEMSimpleLineGraph (4.1)
+  - Eureka (1.5.0)
+  - EZSwiftExtensions (1.5)
+  - Firebase-Cocoa-SDK (2.3.4)
+  - FrameAccessor (1.3.2)
+  - GraphKit (1.1.1):
+    - FrameAccessor (~> 1.3.2)
+    - MKFoundationKit/NSArray (~> 1.2.2)
+  - IQKeyboardManager (4.0.3)
+  - MKFoundationKit/NSArray (1.2.3)
+  - SVProgressHUD (2.0.3)
+  - SWRevealViewController (2.3.0)
+
+DEPENDENCIES:
+  - BEMSimpleLineGraph
+  - Eureka
+  - EZSwiftExtensions
+  - Firebase-Cocoa-SDK
+  - GraphKit
+  - IQKeyboardManager
+  - SVProgressHUD
+  - SWRevealViewController
+
+SPEC CHECKSUMS:
+  BEMSimpleLineGraph: 44fd451f27f8e9cf96f2da5bea27603093576dd1
+  Eureka: 2fb37bb50569c62ee3284689d5b7aca694b040e0
+  EZSwiftExtensions: fe78d7d4ac34f5c8c36415d4acee49ba67c9732a
+  Firebase-Cocoa-SDK: bfd0852cef7dc00c6662c51262fde0143f8afc8d
+  FrameAccessor: 0f7ba6ce37be9a5d0302a27c731dca70af8d438b
+  GraphKit: e2336bed87d9313020af525dedbca54b62e93533
+  IQKeyboardManager: be9695ffc5a52077deb4847608f338771022d6d1
+  MKFoundationKit: 882d74557944790d4d9e172961ed71d6a66804b7
+  SVProgressHUD: b0830714205bea1317ea1a2ebc71e5633af334d4
+  SWRevealViewController: 6d3fd97f70112fd7cef9de14df4260eacce4c63a
+
+PODFILE CHECKSUM: ba208b7cd2e062be18d4273b920fdf5e45b6a2c4
+
+COCOAPODS: 1.0.0
